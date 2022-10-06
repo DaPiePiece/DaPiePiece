@@ -1,7 +1,7 @@
 Hello,
 
-I'm an undegrad student currently studying physics at UCA Valrose.
+I'm graduate student currently studying astrophysics at OCA.
 
-I like astrophysics, linear algebra and other other cool stuff that works with dimensions.
+I like cosmology, linear algebra and other other cool stuff that works with dimensions.
 
 I'll be uploading my projects here.
